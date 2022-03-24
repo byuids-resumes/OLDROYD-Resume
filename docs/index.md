@@ -2,7 +2,7 @@
 
 ---
 layout: cv
-title: AUstin Oldroyd Resume
+title: Austin Oldroyd Resume
 ---
 
 <div id="webaddress">
