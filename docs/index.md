@@ -23,9 +23,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Related Experience
 
 <a href="https://github.com/pondels/SortingVisualizer">Sorting Algorithm using Python</a>
+
 <a href="https://github.com/pondels/Sudoku_Game">Sudoku using C++</a>
+
 <a href="https://github.com/pondels/Top-Down-Adventure-Game">3D Game using Unity</a>
+
 <a href="https://github.com/pondels/MathBot">Discord Bot using Python</a>
+
 <a href="https://github.com/pondels/Card-Bot">Multiplayer Card games using a Discord Bot using Python</a>
 
 ## Service and Work History
